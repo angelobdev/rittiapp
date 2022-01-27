@@ -1,24 +1,22 @@
-{
-  array: [
-    {
-      question: "E' possibile far aggiungere un proverbio?",
-      answer:
-        "Certo! Basta scrivere un messaggio ad un qualsiasi profilo social sottoelencato. Provvederò il prima possibile ad aggiungere i proverbi consigliati.",
+[
+   {
+      "question": "E' possibile far aggiungere un proverbio?",
+      "answer":
+        "Certo! Basta scrivere un messaggio ad un qualsiasi profilo social sottoelencato. Provvederò il prima possibile ad aggiungere i proverbi consigliati."
     },
     {
-      question: "Chi ha scritto questa applicazione?",
-      answer:
-        "Angelo Belcastro, nell'aprile del 2021, seguito della lettura del libro BLABLABLABLA. I suoi profili social possono essere trovati scorrendo questa pagina.",
+      "question": "Chi ha scritto questa applicazione?",
+      "answer":
+        "Angelo Belcastro, nell'aprile del 2021, seguito della lettura del libro BLABLABLABLA. I suoi profili social possono essere trovati scorrendo questa pagina."
     },
     {
-      question: "Troppi annunci, posso disabilitarli?",
-      answer:
-        'Niente di più semplice!\nGli annunci permettono agli sviluppatori di implementare novità e aggiornamenti.\nSe desideri disabilitarli basta pagare una somma irrisoria di €0,99 attraverso l\'apposito tasto presente nella scheda "Impostazioni"',
+      "question": "Troppi annunci, posso disabilitarli?",
+      "answer":
+        "Niente di più semplice!\nGli annunci permettono agli sviluppatori di implementare novità e aggiornamenti.\nSe desideri disabilitarli basta pagare una somma irrisoria di €0,99 attraverso l'apposito tasto presente nella scheda \"Impostazioni\" "
     },
     {
-      question: "Come faccio a scorrere fra i proverbi?",
-      answer:
-        "Il metodo di scorrimento è stato aggiornato!\nAdesso basta cliccare sulla parte destra o sinistra della carta contenente il testo per scorrere rispettivamente avanti o indietro.",
+      "question": "Come faccio a scorrere fra i proverbi?",
+      "answer":
+        "Il metodo di scorrimento è stato aggiornato!\nAdesso basta cliccare sulla parte destra o sinistra della carta contenente il testo per scorrere rispettivamente avanti o indietro."
     }
-  ]
-}
+]
